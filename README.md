@@ -18,7 +18,7 @@ Welcome to our community! We are a group of passionate individuals dedicated to 
 
 ### Jelang Ramadhan Nur Wachid
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)  
-[LinkedIn Profile](https://www.linkedin.com/in/jelang-ramadhan-nur-wachid)
+[LinkedIn Profile](https://www.linkedin.com/in/jelangramadhannw/)
 
 ### Nathan Luthfi Raqi Irfandi
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)  
