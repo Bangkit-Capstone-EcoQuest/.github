@@ -1,5 +1,5 @@
-<div align="center">
 # EcoQuest : Smart Plastic Sorting for Recycling Application
+<div align="center">
 <img src="https://github.com/Bangkit-Capstone-EcoQuest/EcoQuest-ML/blob/main/Basic%20logo.png" width="50%" height="50%" >
 </div>
 
