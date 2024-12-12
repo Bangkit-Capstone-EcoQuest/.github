@@ -10,12 +10,12 @@ EcoQuest is a smart plastic sorting application designed to help with efficient 
 
 | ID           | Name                                | Learning Path | Profile | LinkedIn |
 | :------------: | ----------------------------------- | :------------: | :------: | :-----: |
-| M008B4KY0314  | Alan Ghani Haris                    | ML             |    [Alan Ghani Haris](https://github.com/AlanGhaniH)               | [![LinkedIn](https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.ico)](https://www.linkedin.com/in/alanghanih/) |
+| M008B4KY0314  | Alan Ghani Haris                    | ML             |    [Alan Ghani Haris](https://github.com/AlanGhaniH)               | [![LinkedIn](https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png)](https://www.linkedin.com/in/alanghanih/) |
 | M008B4KY2051  | Jelang Ramadhan Nur Wachid          | ML             |    [Jelang Ramadhan Nur Wachid](https://github.com/jramadhannw)    | [![LinkedIn](https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png)](https://www.linkedin.com/in/jelangramadhannw/) |
-| M008B4KY3016  | Muhammad Raihan Pradipta            | ML             |    [Muhammad Raihan Pradipta](https://github.com/MRaihanP)         | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/mraihanpradipta/) |
-| C008B4KY4463  | Walid Syaadan Sulthoni              | CC             |    [Walid Syaadan Sulthoni](https://github.com/walidtoni)          | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/walidsyaadan/) |
-| C008B4KY4603  | Zalu Ardani Ramadhan                | CC             |    [Zalu Ramadhan](https://github.com/Zalu11)                      | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/zalu-ardani-ramadhan/) |
-| A008B4KY3265  | Nathan Lutfi Raqhi Ifandi           | MD             |    [Nathan Lutfi Raqhi Ifandi](https://github.com/NateStark666)    | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/nathan-lutfi-raqhi-ifandi-330a4a256/) |
+| M008B4KY3016  | Muhammad Raihan Pradipta            | ML             |    [Muhammad Raihan Pradipta](https://github.com/MRaihanP)         | [![LinkedIn](https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png)](https://www.linkedin.com/in/mraihanpradipta/) |
+| C008B4KY4463  | Walid Syaadan Sulthoni              | CC             |    [Walid Syaadan Sulthoni](https://github.com/walidtoni)          | [![LinkedIn](https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png)](https://www.linkedin.com/in/walidsyaadan/) |
+| C008B4KY4603  | Zalu Ardani Ramadhan                | CC             |    [Zalu Ramadhan](https://github.com/Zalu11)                      | [![LinkedIn](https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png)](https://www.linkedin.com/in/zalu-ardani-ramadhan/) |
+| A008B4KY3265  | Nathan Lutfi Raqhi Ifandi           | MD             |    [Nathan Lutfi Raqhi Ifandi](https://github.com/NateStark666)    | [![LinkedIn](https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png)](https://www.linkedin.com/in/nathan-lutfi-raqhi-ifandi-330a4a256/) |
 
 ## Repositories
 |   Learning Paths   |                                Link                                                  |
