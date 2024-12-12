@@ -1,6 +1,6 @@
-# EcoQuest : Smart Plastic Sorting for Recycling Application
 <div align="center">
-<img src="https://github.com/Mubazir-Bangkit-2023/.github/assets/95016158/f4a7c570-a890-43ee-b4cd-a67724b9f271" width="50%" height="50%" >
+# EcoQuest : Smart Plastic Sorting for Recycling Application
+<img src="https://github.com/Bangkit-Capstone-EcoQuest/EcoQuest-ML/blob/main/Basic%20logo.png" width="50%" height="50%" >
 </div>
 
 ## About
@@ -10,12 +10,12 @@ EcoQuest is a smart plastic sorting application designed to help with efficient 
 
 | ID           | Name                                | Learning Path | Profile |
 | :------------: | ----------------------------------- | :------------: | :------: |
-| M008B4KY0314  | Alan Ghani Haris                    | ML             |    [Alan Ghani Haris](https://github.com/AlanGhaniHaris) |
-| M008B4KY2051  | Jelang Ramadhan Nur Wachid          | ML             |    [Jelang Wachid](https://github.com/JelangWachid)     |
-| M008B4KY3016  | Muhammad Raihan Pradipta            | ML             |    [Muhammad Raihan](https://github.com/MuhammadRaihan) |
-| C008B4KY4463  | Walid Syaadan Sulthoni              | CC             |    [Walid Sulthoni](https://github.com/WalidSulthoni)   |
-| C008B4KY4603  | Zalu Ardani Ramadhan                | CC             |    [Zalu Ramadhan](https://github.com/ZaluRamadhan)     |
-| A008B4KY3265  | Nathan Lutfi Raqhi Ifandi           | MD             |    [Nathan Ifandi](https://github.com/NathanIfandi)     |
+| M008B4KY0314  | Alan Ghani Haris                    | ML             |    [Alan Ghani Haris](https://github.com/AlanGhaniH)               |
+| M008B4KY2051  | Jelang Ramadhan Nur Wachid          | ML             |    [Jelang Ramadhan Nur Wachid](https://github.com/jramadhannw)    |
+| M008B4KY3016  | Muhammad Raihan Pradipta            | ML             |    [Muhammad Raihan Pradipta](https://github.com/MRaihanP)         |
+| C008B4KY4463  | Walid Syaadan Sulthoni              | CC             |    [Walid Syaadan Sulthoni](https://github.com/walidtoni)          |
+| C008B4KY4603  | Zalu Ardani Ramadhan                | CC             |    [Zalu Ramadhan](https://github.com/Zalu11)                      |
+| A008B4KY3265  | Nathan Lutfi Raqhi Ifandi           | MD             |    [Nathan Lutfi Raqhi Ifandi](https://github.com/NateStark666)    |
 
 ## Repositories
 |   Learning Paths   |                                Link                                |
