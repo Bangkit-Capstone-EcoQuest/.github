@@ -1,6 +1,6 @@
 # EcoQuest : Smart Plastic Sorting for Recycling Application
 <div align="center">
-<img src="https://github.com/Bangkit-Capstone-EcoQuest/EcoQuest-ML/blob/main/Basic%20logo.png" width="50%" height="50%" >
+<img src="https://github.com/Bangkit-Capstone-EcoQuest/EcoQuest-ML/blob/main/Basic%20logo.png" width="40%" height="40%" >
 </div>
 
 ## About
@@ -18,11 +18,11 @@ EcoQuest is a smart plastic sorting application designed to help with efficient 
 | A008B4KY3265  | Nathan Lutfi Raqhi Ifandi           | MD             |    [Nathan Lutfi Raqhi Ifandi](https://github.com/NateStark666)    |
 
 ## Repositories
-|   Learning Paths   |                                Link                                |
-| :----------------: | :----------------------------------------------------------------: |
-| Machine Learning   | [Github]((https://github.com/Bangkit-Capstone-EcoQuest/EcoQuest-ML))         |
+|   Learning Paths   |                                Link                                                  |
+| :----------------: | :----------------------------------------------------------------:                   |
+| Machine Learning   | [Github](https://github.com/Bangkit-Capstone-EcoQuest/EcoQuest-ML)                   |
 | Cloud Computing    | [Github](https://github.com/Bangkit-Capstone-EcoQuest/EcoQuest-Cloud-Computing)      |
-| Mobile Development | [Github](https://github.com/Bangkit-Capstone-EcoQuest/md_gacor)    |
+| Mobile Development | [Github](https://github.com/Bangkit-Capstone-EcoQuest/md_gacor)                      |
 
 ## Project Documents
-- Project Plan : [Google Drive](https://drive.google.com/file/d/117fa7skGpOTBlynkuiJjZMX21agasxmF/view?usp=sharing)
+- Project Plan : [Google Drive](hkosong)
