@@ -3,14 +3,6 @@
 <img src="https://github.com/Bangkit-Capstone-EcoQuest/EcoQuest-ML/blob/main/Basic%20logo.png" width="50%" height="50%" >
 </div>
 
-## Repositories
-|   Learning Paths   |                                Link                                |
-| :----------------: | :----------------------------------------------------------------: |
-| Machine Learning   | [Github](# EcoQuest : Smart Plastic Sorting for Recycling Application
-<div align="center">
-<img src="https://github.com/Bangkit-Capstone-EcoQuest/EcoQuest-ML/blob/main/Basic%20logo.png" width="50%" height="50%" >
-</div>
-
 ## About
 EcoQuest is a smart plastic sorting application designed to help with efficient plastic recycling. The application uses advanced machine learning algorithms to automatically detect and sort different types of plastic materials. It aims to reduce plastic waste and improve recycling processes by providing an easy-to-use platform for users to contribute to sustainability efforts. This project is part of the ongoing initiative to develop smart, technology-driven solutions for waste management.
 
@@ -31,12 +23,6 @@ EcoQuest is a smart plastic sorting application designed to help with efficient 
 | Machine Learning   | [Github](https://github.com/EcoQuest-Project/ecoquest-ml)         |
 | Cloud Computing    | [Github](https://github.com/Bangkit-Capstone-EcoQuest/EcoQuest-Cloud-Computing)      |
 | Mobile Development | [Github](https://github.com/Bangkit-Capstone-EcoQuest/md_gacor)    |
-
-## Project Documents
-- Project Plan : [Google Drive](https://drive.google.com/file/d/117fa7skGpOTBlynkuiJjZMX21agasxmF/view?usp=sharing)
-)         |
-| Cloud Computing    | [Github](https://github.com/EcoQuest-Project/ecoquest-cloud)      |
-| Mobile Development | [Github](https://github.com/EcoQuest-Project/ecoquest-android)    |
 
 ## Project Documents
 - Project Plan : [Google Drive](https://drive.google.com/file/d/117fa7skGpOTBlynkuiJjZMX21agasxmF/view?usp=sharing)
