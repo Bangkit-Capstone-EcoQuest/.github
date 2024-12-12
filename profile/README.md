@@ -8,8 +8,8 @@ EcoQuest is a smart plastic sorting application designed to help with efficient 
 
 ## Team Members:
 
-| ID           | Name                                | Learning Path | Profile |
-| :------------: | ----------------------------------- | :------------: | :------: |
+| ID           | Name                                | Learning Path | Profile | LinkedIn |
+| :------------: | ----------------------------------- | :------------: | :------: | :-----: |
 | M008B4KY0314  | Alan Ghani Haris                    | ML             |    [Alan Ghani Haris](https://github.com/AlanGhaniH)               |
 | M008B4KY2051  | Jelang Ramadhan Nur Wachid          | ML             |    [Jelang Ramadhan Nur Wachid](https://github.com/jramadhannw)    |
 | M008B4KY3016  | Muhammad Raihan Pradipta            | ML             |    [Muhammad Raihan Pradipta](https://github.com/MRaihanP)         |
