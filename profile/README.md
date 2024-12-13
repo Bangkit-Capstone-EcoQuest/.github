@@ -6,7 +6,11 @@
 ## About
 EcoQuest is a smart plastic sorting application designed to help with efficient plastic recycling. The application uses advanced machine learning algorithms to automatically detect and sort different types of plastic materials. It aims to reduce plastic waste and improve recycling processes by providing an easy-to-use platform for users to contribute to sustainability efforts. This project is part of the ongoing initiative to develop smart, technology-driven solutions for waste management.
 
-## Team Members:
+## Meet Our Team:
+<div align="center">
+<img src="https://github.com/Bangkit-Capstone-EcoQuest/.github/blob/main/profile/ECO%20Quest.png" width="30%" height="30%" >
+</div>
+
 | ID           | Name                                | Learning Path | Profile | LinkedIn |
 | :------------: | ----------------------------------- | :------------: | :------: | :-----: |
 | M008B4KY0314  | Alan Ghani Haris                    | ML             |    [Alan Ghani Haris](https://github.com/AlanGhaniH)               | [![LinkedIn](https://github.com/linnovate/root-me/blob/master/src/images/icons/linkedin.png)](https://www.linkedin.com/in/alanghanih/) |
