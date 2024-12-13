@@ -27,8 +27,8 @@ EcoQuest is a smart plastic sorting application designed to help with efficient 
 | Cloud Computing    | [Github](https://github.com/Bangkit-Capstone-EcoQuest/EcoQuest-Cloud-Computing)      |
 | Mobile Development | [Github](https://github.com/Bangkit-Capstone-EcoQuest/md_gacor)                      |
 
-## Project Demo
-[![Youtube](https://img.icons8.com/color/48/000000/youtube-play.png)](kosonh)
+## Project Documentation
+[![Youtube](https://img.icons8.com/color/48/000000/youtube-play.png)](kosonh)[![GDrive](https://github.com/linnovate/root-me/blob/master/src/images/icons/drive.ico)(kosong)]
 
 ## Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
