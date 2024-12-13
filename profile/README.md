@@ -8,7 +8,7 @@ EcoQuest is a smart plastic sorting application designed to help with efficient 
 
 ## Meet Our Team:
 <div align="center">
-<img src="https://github.com/Bangkit-Capstone-EcoQuest/.github/blob/main/profile/ECO%20Quest.png" width="30%" height="30%" >
+<img src="https://github.com/Bangkit-Capstone-EcoQuest/.github/blob/main/profile/ECO%20Quest.png" width="50%" height="50%" >
 </div>
 
 | ID           | Name                                | Learning Path | Profile | LinkedIn |
